@@ -1,6 +1,6 @@
-# INTRODUCTION
+# INTRODUCTION FLUTTER
 
-A new Flutter project.
+Develop a mobile application that allows students to manage their academic responsibilities in an organized manner, contributing to better time management and the timely completion of their school activities.
 
 ## Getting Started
 
