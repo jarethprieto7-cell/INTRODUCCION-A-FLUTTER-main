@@ -11,6 +11,4 @@ To expand your knowledge of the technologies used in this project, we recommend 
 Material Design for mobile interfaces.
 - Cross-platform mobile development tutorials.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PRESENTED BY JARETH GONZALEZ PRIETO FROM THE COMPUTER ENGINEERING PROGRAM, 8TH SEMESTER, GROUP A
